@@ -48,4 +48,4 @@ MIT License
 
 ## Author
 
-PasinduW-sketch
+Pasindu Harsha
